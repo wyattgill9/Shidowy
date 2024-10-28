@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shidowy&show_icons=true&theme=radical" alt="Shidowy's GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shidowy&theme=radical" alt="Shidowy's GitHub Streak" height="150"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shidowy&layout=compact&theme=github_dark&langs_count=8&hide=Vim%20script,Emacs%20Lisp,CMake,Makefile,Yacc,Lex" >
 </p>
 
 ---
