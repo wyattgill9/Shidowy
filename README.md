@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 ---
 
 ### 📌 Get In Touch
-- **Email:** [your-email@example.com](wyattgill2009@gmail.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/wyatt-gill-17380b323/)
+- **Email:** [wyattgill@example.com](wyattgill2009@gmail.com)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/wyatt-gill-17380b323/)
 
 ---
 
