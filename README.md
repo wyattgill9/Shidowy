@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 ---
 
 ### 🛠 Technologies & Tools
-- **Languages:** Python, JavaScript, Rust, SQL
-- **Frameworks & Libraries:** Django, PyTorch, React, TypeScript
-- **Dev Tools:** Git, Docker, VSCode, Jupyter Notebooks
-- **Cloud & Databases:** PostgreSQL, Neon, Prisma, Fly.io, Vercel, AWS
+- **Languages:** Rust, JavaScript, Python, SQL
+- **Frameworks & Libraries:** React, TypeScript, PyTorch, Django,
+- **Dev Tools:** Git, VSCode, Docker,
+- **Cloud & Databases:** Axum, PostgreSQL, Neon, Fly.io, Vercel, 
 
 ---
 
@@ -22,18 +22,16 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 
 ### 🚀 Featured Projects
 
-- **[Media Sured](https://github.com/Shidowy/MediaSured)** - Social media insurance SaaS platform using Django and Axum, with a tech stack optimized for speed and simplicity.
+- **[Media Sured](https://mediasured.com)** - Social media insurance SaaS platform using Django and Axum, with a tech stack optimized for speed and simplicity.
 - **[Maze Solver](https://github.com/Shidowy/MazeSolver)** - A Python-powered Pygame project that solves mazes algorithmically.
 - **[Chess Game](https://github.com/Shidowy/ChessAI)** - A strategic chess game with AI capabilities under development, built using Pygame.
 
 ---
 
 ### 📌 Get In Touch
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourTwitter](https://twitter.com/yourTwitter)
+- **Email:** [your-email@example.com](wyattgill2009@gmail.com)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/wyatt-gill-17380b323/)
 
 ---
-
-Looking forward to connecting and building great things together! Feel free to explore my repositories and contribute to projects you find interesting. 😊
+- Wyatt
 
