@@ -23,9 +23,8 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 
 ### 🚀 Featured Projects
 
-- **[Media Sured](https://mediasured.com)** - Social media insurance SaaS platform using Django and Axum, with a tech stack optimized for speed and simplicity.
+- **[Mediasured](https://mediasured.com)** - Social media insurance SaaS platform using Axum, built with a tech stack optimized for speed.
 - **[Maze Solver](https://github.com/Shidowy/MazeSolver)** - A Python-powered Pygame project that solves mazes algorithmically.
-- **[Chess Game](https://github.com/Shidowy/ChessAI)** - A strategic chess game with AI capabilities under development, built using Pygame.
 
 ---
 
