@@ -33,5 +33,4 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/wyatt-gill-17380b323/)
 
 ---
-- Wyatt
 
