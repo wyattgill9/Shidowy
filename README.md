@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 - **[Mediasured](https://mediasured.com)** - Social media insurance SaaS platform using Axum, built with a tech stack optimized for speed.
 - **[Maze Solver](https://github.com/Shidowy/MazeSolver)** - A Python-powered Pygame project that solves mazes algorithmically.
 - **[Fullstack-App](https://github.com/Shidowy/MazeSolver)** - Fullstack App template built in Vite + Axum
+- **[Rafka](https://github.com/Shidowy/rafka)** - Data Stream Engine like Kafka writtin in Rust
   
 ---
 
