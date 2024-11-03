@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 ### 🚀 Featured Projects
 
 - **[Fullstack-App](https://github.com/Shidowy/MazeSolver)** - Fullstack App template built in Vite + Axum
-- **[Rafka](https://github.com/Shidowy/rafka)** - Data Stream Engine like Kafka writtin in Rust (NOT WORKING)
+- **[Rafka](https://github.com/Shidowy/rafka)** - Data Stream Engine like Kafka writtin in Rust (UNFINISHED/DITCHED)
 - **[Maze Solver](https://github.com/Shidowy/MazeSolver)** - A Python-powered Pygame project that solves mazes algorithmically.
   
 ---
