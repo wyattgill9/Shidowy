@@ -18,18 +18,7 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 </p>
 
 ---
+| <a href="https://github.com/Shidowy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shidowy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Shidowy's's github stats" /></a> | <a href="https://github.com/Shidowy/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shidowy&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### 🚀 Featured Projects
-
-- **[Fullstack-App](https://github.com/Shidowy/MazeSolver)** - Fullstack App template built in Vite + Axum
-- **[Rafka](https://github.com/Shidowy/rafka)** - Data Stream Engine like Kafka writtin in Rust (UNFINISHED/DITCHED)
-- **[Maze Solver](https://github.com/Shidowy/MazeSolver)** - A Python-powered Pygame project that solves mazes algorithmically.
-  
----
-
-### 📌 Get In Touch
-- **Email:** [Wyattgill@gmail.com](wyattgill2009@gmail.com)
-- **LinkedIn:** [My Linkedin](https://www.linkedin.com/inf/wyatt-gill-17380b323/)
-
----
 
