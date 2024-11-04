@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 
 ### 📌 Get In Touch
 - **Email:** [Wyattgill@gmail.com](wyattgill2009@gmail.com)
-- **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/wyatt-gill-17380b323/)
+- **LinkedIn:** [My Linkedin](https://www.linkedin.com/inf/wyatt-gill-17380b323/)
 
 ---
 
