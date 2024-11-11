@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m passionate about exploring new technologies,
 ---
 
 ### 🛠 Technologies & Tools
-- **Languages:** Rust, JavaScript, Python, SQL
+- **Languages:** Rust, Typescript, Python, SQL
 - **Frameworks & Libraries:** React, TypeScript, PyTorch, Django,
 - **Dev Tools:** Git, VSCode, Docker,
 - **Cloud & Databases:** Axum, PostgreSQL, Neon, Fly.io, Vercel, 
