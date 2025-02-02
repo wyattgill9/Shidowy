@@ -1,8 +1,4 @@
-# Hi there, I'm Shidowy! (15m) 👋
-
-Welcome to my GitHub profile! I’m passionate about exploring new technologies, building impactful projects, and collaborating on open-source initiatives. Here’s a bit about what I do and where you can find my latest work:
-
----
+## Hi there, I'm Wyatt! 👋
 
 ### 🛠 Technologies & Tools
 - **Languages:** Rust, Typescript, Python, SQL
